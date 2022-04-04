@@ -1,0 +1,2 @@
+Students#id#INT#name#STR#dept#STR
+Albums#id#INT#title#STR#artistName#STR#songCount#INT#rating#INT
