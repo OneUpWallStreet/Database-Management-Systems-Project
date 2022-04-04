@@ -10,8 +10,11 @@ hours so it's a single monolith file.
 ## Images 
 
 <p align = "middle">
-  <img src="/Images/one.png" width="400" height="300">
-  <img src="/Images/two.png" width="400" height="300">
+  <img src="/Images/one.png" width="700" height="500">
+</p>
+
+<p align = "middle">
+  <img src="/Images/two.png" width="700" height="500">
 </p>
 
 ## Features...
